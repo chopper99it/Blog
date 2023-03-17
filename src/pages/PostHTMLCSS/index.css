@@ -1,0 +1,21 @@
+.containerHTMLCSS {
+  margin-top: 50px;
+}
+
+.contentHTMLCSS {
+    width: 95%;
+    margin: auto;
+}
+
+.coursesHTMLCSS {
+  margin-top: 20px;
+}
+
+.itemsHTMLCSS {
+  background-color: #f5f5f5;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  width: 70%;
+  padding: 10px;
+  border-radius: 5px;
+}

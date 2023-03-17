@@ -1,0 +1,28 @@
+.container {
+  margin: 20px 0;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 95%;
+  margin: auto;
+}
+
+.title {
+  
+}
+
+
+.navbar ul {
+  display: flex;
+  gap: 100px;
+  
+}
+
+.navbar li {
+  font-size: 32px;
+  text-decoration: none;
+  list-style: none;
+}
